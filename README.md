@@ -27,9 +27,7 @@ El ambiente de desarrollo del proyecto se formará con los siguientes componente
 
 ````
   <script src="https://cdn.rawgit.com/cynthia1171/card-validator/megaDev/src/validateCard.js"></script>
-  <script src="https://rawgit.com/cynthia1171/card-validator/megaDev/src/validateCard.js"></script>
   <script src="https://cdn.rawgit.com/cynthia1171/card-validator/megaDev/lib/validateCard-EC5.js"></script>
-  <script src="https://rawgit.com/cynthia1171/card-validator/megaDev/lib/validateCard-EC5.js"></script>
 
 ````
 
