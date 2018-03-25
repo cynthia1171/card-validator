@@ -79,10 +79,6 @@ CARD.LengthCvv(cvv);
 CARD.validateDate(dateExp);
 ````
 
-## Ejemplo funcional
-
-[Entra al demo](https://cynthia1171.github.io/demo/)
-
 ## Contribuidoras
 
 - [Carol Martínez](https://github.com/cynthia1171)
