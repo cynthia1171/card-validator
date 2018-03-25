@@ -1,5 +1,7 @@
 # Validador de datos de tarjetas de crédito
 
+![Vista del demo](http://drive.google.com/uc?export=view&id=1-kAJKRKobbanWX4_fVLQ-_ilrjFC5NFs)
+
 API que valida el número de una tarjeta de crédito por medio del algoritmo de Luhn.
 
 El plugin debe recibir una referencia a un elemento del DOM que contenga la etiqueta <input> con los siguientes nombres (atributo id):
